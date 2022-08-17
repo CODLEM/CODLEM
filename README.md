@@ -1,18 +1,53 @@
-### Hi everyone !!! 🌠
- - Im 16
- - beginner developer student
- - My actual project is a 2D platformer ;) 
- - Im a Aptomick develloper / designer 
-### Langage
------------------------------------
+<p align="center">
+ Hi everyone !!! 🌠
+</p>
+<ul>
+    <li><p>Im 16</p></li>
+    <li><p>beginner developer student</p></li>
+    <li><p>My actual project is a 2D platformer ;)</p></li>
+    <li><p>Im a Aptomick develloper / designer</p></li>
+</ul>
 
-<img width="10%" src="https://user-images.githubusercontent.com/82234268/184509665-682c2fb6-91fc-4635-b1f3-5d03d94501ad.svg%22%3E" align="center"/>
-<img width="10%" src="https://user-images.githubusercontent.com/82234268/184509672-518aae94-c760-4db5-b174-aaa3c5e15053.svg%22%3E" align="center"/>
-<img width="10%" src="https://user-images.githubusercontent.com/82234268/184509673-79a707ea-f9e0-433f-b907-ed2f621613c3.svg%22%3E" align="center"/>
-<img width="10%" src="https://user-images.githubusercontent.com/82234268/184509676-df0ede39-5652-416e-bcd2-fe67bd994d83.svg%22%3E" align="center"/>
-
-### IDE
 
 -----------------------------------
-<img width="10%" src="https://user-images.githubusercontent.com/82234268/184510016-cd331895-5400-4fc4-8368-511e6b718c5f.svg%22%3E" align="center"/>
-<img width="10%" src="https://user-images.githubusercontent.com/82234268/184510114-e3b75a7d-e104-4712-be08-dafd5487a2d4.svg%22%3E" align="center"/>
+
+<h1 align="center"> <font size="+3"> LANGUAGES </font> </h1>
+
+-----------------------------------
+</br>
+</br>
+</br>
+
+<p align="center">
+  <img width="20%" src="https://user-images.githubusercontent.com/106914917/185203867-d8ba6e6e-2528-4eb1-8566-4772c429a368.svg"></br>
+</p>
+
+<h1 align="center">C++</h1>
+
+<p align="center">
+  <img width="20%" src="https://user-images.githubusercontent.com/106914917/185204026-0d25cdc3-171b-4797-bf68-f83c1ca00db8.svg"></br>
+</p>
+
+<h1 align="center">C#</h1>
+
+<p align="center">
+  <img width="20%" src="https://user-images.githubusercontent.com/106914917/185209722-0883b145-60bf-4cdf-b771-1f5489fc4b02.svg"></br>
+</p>
+
+<h1 align="center"> HTML </h1>
+
+<p align="center">
+  <img width="20%" src="https://user-images.githubusercontent.com/106914917/185210058-89fd60c6-8a71-466d-80b6-b0ebe121f4bf.svg"></br>
+</p>
+
+<h1 align="center"> PYTHON </h1>
+
+----------------------------------- 
+
+<h1 align="center"> <font size="+3"> IDE </font> </h1>
+
+-----------------------------------
+
+<p align="center">
+<img width="10%" src="https://user-images.githubusercontent.com/106914917/185204986-3acdece1-1209-49d5-a01c-b20ef442519a.svg" align="center"/></br>
+ <h1 align="center"> VISUAL STUDIO </h1>

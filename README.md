@@ -5,7 +5,7 @@
     <li><p>Im 16</p></li>
     <li><p>beginner developer student</p></li>
     <li><p>My actual project is a 2D platformer ;)</p></li>
-    <li><p>Im a Aptomick develloper / designer</p></li>
+    <li><p>Im a Indie Game develloper / designer</p></li>
 </ul>
 
 

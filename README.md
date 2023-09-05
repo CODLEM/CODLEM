@@ -2,7 +2,7 @@
  Hi everyone !!! 🌠
 </p>
 <ul>
-    <li><p>Im 16</p></li>
+    <li><p>Im 17</p></li>
     <li><p>beginner developer student</p></li>
     <li><p>My actual project is a 2D platformer ;)</p></li>
     <li><p>Im a Indie Game develloper / designer</p></li>
@@ -30,17 +30,6 @@
 
 <h1 align="center">C#</h1>
 
-<p align="center">
-  <img width="20%" src="https://user-images.githubusercontent.com/106914917/185209722-0883b145-60bf-4cdf-b771-1f5489fc4b02.svg"></br>
-</p>
-
-<h1 align="center"> HTML </h1>
-
-<p align="center">
-  <img width="20%" src="https://user-images.githubusercontent.com/106914917/185210058-89fd60c6-8a71-466d-80b6-b0ebe121f4bf.svg"></br>
-</p>
-
-<h1 align="center"> PYTHON </h1>
 
 ----------------------------------- 
 

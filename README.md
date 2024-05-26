@@ -40,3 +40,7 @@
 <p align="center">
 <img width="10%" src="https://user-images.githubusercontent.com/106914917/185204986-3acdece1-1209-49d5-a01c-b20ef442519a.svg" align="center"/></br>
  <h1 align="center"> VISUAL STUDIO </h1>
+
+ <p align="center">
+<img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/JetBrains_Rider_Icon.svg/1200px-JetBrains_Rider_Icon.svg.png" align="center"/></br>
+ <h1 align="center"> JETBRAIN RIDER </h1>

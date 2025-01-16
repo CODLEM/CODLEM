@@ -4,7 +4,7 @@
 <ul>
     <li><p>Im 18</p></li>
     <li><p>Videos games dev student</p></li>
-    <li><p>My actual project is a 2D platformer ;)</p></li>
+    <li><p>NO project</p></li>
     <li><p>Im a futur Game develloper / designer</p></li>
 </ul>
 

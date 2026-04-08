@@ -66,7 +66,7 @@
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/CODLEM/CODLEM/output/snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/CODLEM/CODLEM/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---

@@ -1,14 +1,28 @@
 # Hi everyone
 
-<p align="center">
-  <b>19 y/o • Game Developer</b><br>
-  Building my own Game Engine<br>
-  Future Game Developer / Designer
-</p>
+<div align="center">
+  <strong>Game Developer • Engine Programmer</strong><br>
+  19 y/o developer focused on low‑level systems, rendering, and engine architecture.
+</div>
 
 ---
 
-## Languages & Tools
+## Overview
+
+I am a developer passionate about understanding how things work internally.  
+My main focus is building my own game engine and exploring systems such as:
+
+- Rendering pipelines  
+- ECS architecture  
+- Memory management  
+- Tools and editor development  
+- Engine‑level abstractions  
+
+I value clean architecture, performance, and long‑term scalability.
+
+---
+
+## Technical Skills
 
 <div align="center">
 
@@ -30,7 +44,7 @@
 
 <td align="center" width="50%">
 
-<h3>IDE</h3>
+<h3>Tools & IDE</h3>
 
 <img width="90" src="https://user-images.githubusercontent.com/106914917/185204986-3acdece1-1209-49d5-a01c-b20ef442519a.svg"/><br>
 <b>Visual Studio</b>
@@ -48,48 +62,56 @@
 
 ---
 
-## GitHub Summary
+## GitHub Activity
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CODLEM&color=blue"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CODLEM&theme=tokyonight"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=CODLEM&color=blue"/>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CODLEM&theme=tokyonight"/>
-</p>
+<br><br>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CODLEM&theme=tokyonight"/>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CODLEM&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CODLEM&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CODLEM&theme=tokyonight"/>
+
+</div>
 
 ---
 
-## Contribution Snake
+## Contribution Timeline
 
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/CODLEM/CODLEM/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+</div>
 
 ---
 
 ## Badges
 
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/C++-Developer-blue?style=for-the-badge&logo=cplusplus"/>
   <img src="https://img.shields.io/badge/C%23-Developer-purple?style=for-the-badge&logo=csharp"/>
   <img src="https://img.shields.io/badge/Game_Dev-In_Progress-red?style=for-the-badge&logo=unity"/>
   <img src="https://img.shields.io/badge/Engine_Dev-Active-green?style=for-the-badge&logo=unrealengine"/>
-</p>
+</div>
 
 ---
 
-## About Me
+## Vision
 
-<p align="center">
-  Passionate about low-level systems, engine architecture, and game design.<br>
-  Currently building my own engine and exploring rendering, ECS, and tools development.
-</p>
+My long‑term goal is to build a complete, modular, and efficient engine architecture.  
+I aim to create systems that are:
+
+- predictable  
+- scalable  
+- maintainable  
+- and technically elegant  
+
+I believe in learning by building, experimenting, and pushing my limits.
+

@@ -47,15 +47,35 @@
 
 ---
 
-<!-- Optional interactions -->
+<h2 align="center">📊 GitHub Stats</h2>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=CODLEM&color=blue" alt="Profile views"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CODLEM&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODLEM&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://github.com/CODLEM/CODLEM/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<h2 align="center">🏷️ Badges</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-Developer-blue?style=for-the-badge&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/C%23-Developer-purple?style=for-the-badge&logo=csharp" />
+  <img src="https://img.shields.io/badge/Game_Dev-In_Progress-red?style=for-the-badge&logo=unity" />
+  <img src="https://img.shields.io/badge/Engine_Dev-Active-green?style=for-the-badge&logo=unrealengine" />
 </p>

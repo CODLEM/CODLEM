@@ -9,32 +9,53 @@
 
 ---
 
-<h2 align="center">🚀 LANGUAGES</h2>
+<div align="center">
 
-<p align="center">
-  <img width="120" src="https://user-images.githubusercontent.com/106914917/185203867-d8ba6e6e-2528-4eb1-8566-4772c429a368.svg" alt="C++ Logo"/>
-</p>
-<p align="center"><b>C++</b></p>
+<table>
+<tr>
+<td align="center" width="50%">
 
-<br>
+<h2>🚀 LANGUAGES</h2>
 
-<p align="center">
-  <img width="120" src="https://user-images.githubusercontent.com/106914917/185204026-0d25cdc3-171b-4797-bf68-f83c1ca00db8.svg" alt="C# Logo"/>
-</p>
-<p align="center"><b>C#</b></p>
+<img width="120" src="https://user-images.githubusercontent.com/106914917/185203867-d8ba6e6e-2528-4eb1-8566-4772c429a368.svg" alt="C++ Logo"/><br>
+<b>C++</b>
+
+<br><br>
+
+<img width="120" src="https://user-images.githubusercontent.com/106914917/185204026-0d25cdc3-171b-4797-bf68-f83c1ca00db8.svg" alt="C# Logo"/><br>
+<b>C#</b>
+
+</td>
+
+<td align="center" width="50%">
+
+<h2>🛠️ IDE</h2>
+
+<img width="90" src="https://user-images.githubusercontent.com/106914917/185204986-3acdece1-1209-49d5-a01c-b20ef442519a.svg" alt="Visual Studio Logo"/><br>
+<b>Visual Studio</b>
+
+<br><br>
+
+<img width="90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/JetBrains_Rider_Icon.svg/1200px-JetBrains_Rider_Icon.svg.png" alt="Rider Logo"/><br>
+<b>JetBrains Rider</b>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-<h2 align="center">🛠️ IDE</h2>
+<!-- Optional interactions -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue" alt="Profile views"/>
+</p>
 
 <p align="center">
-  <img width="90" src="https://user-images.githubusercontent.com/106914917/185204986-3acdece1-1209-49d5-a01c-b20ef442519a.svg" alt="Visual Studio Logo"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
-<p align="center"><b>Visual Studio</b></p>
-
-<br>
 
 <p align="center">
-  <img width="90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/JetBrains_Rider_Icon.svg/1200px-JetBrains_Rider_Icon.svg.png" alt="Rider Logo"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
 </p>
-<p align="center"><b>JetBrains Rider</b></p>

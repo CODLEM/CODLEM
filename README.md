@@ -1,13 +1,14 @@
-<h1 align="center">Hi everyone 👋</h1>
+# Hi everyone
 
 <p align="center">
-  I'm 19<br>
-  Video games developer<br>
-  Working on my own Engine<br>
+  <b>19 y/o • Game Developer</b><br>
+  Building my own Game Engine<br>
   Future Game Developer / Designer
 </p>
 
 ---
+
+## Languages & Tools
 
 <div align="center">
 
@@ -15,7 +16,7 @@
 <tr>
 <td align="center" width="50%">
 
-<h2>🚀 LANGUAGES</h2>
+<h3>Languages</h3>
 
 <img width="120" src="https://user-images.githubusercontent.com/106914917/185203867-d8ba6e6e-2528-4eb1-8566-4772c429a368.svg"/><br>
 <b>C++</b>
@@ -29,7 +30,7 @@
 
 <td align="center" width="50%">
 
-<h2>🛠️ IDE</h2>
+<h3>IDE</h3>
 
 <img width="90" src="https://user-images.githubusercontent.com/106914917/185204986-3acdece1-1209-49d5-a01c-b20ef442519a.svg"/><br>
 <b>Visual Studio</b>
@@ -47,35 +48,48 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+## GitHub Summary
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CODLEM&color=blue"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CODLEM&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CODLEM&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODLEM&layout=compact&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CODLEM&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CODLEM&theme=tokyonight"/>
 </p>
 
 ---
 
-<h2 align="center">🐍 Contribution Snake</h2>
+## Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/CODLEM/CODLEM/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/CODLEM/CODLEM/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
-<h2 align="center">🏷️ Badges</h2>
+## Badges
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-Developer-blue?style=for-the-badge&logo=cplusplus"/>
   <img src="https://img.shields.io/badge/C%23-Developer-purple?style=for-the-badge&logo=csharp"/>
   <img src="https://img.shields.io/badge/Game_Dev-In_Progress-red?style=for-the-badge&logo=unity"/>
   <img src="https://img.shields.io/badge/Engine_Dev-Active-green?style=for-the-badge&logo=unrealengine"/>
+</p>
+
+---
+
+## About Me
+
+<p align="center">
+  Passionate about low-level systems, engine architecture, and game design.<br>
+  Currently building my own engine and exploring rendering, ECS, and tools development.
 </p>
